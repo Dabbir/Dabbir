@@ -66,13 +66,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dabbir&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## 💼 Experience
-
-- **Freelance Full Stack Developer** - FKUB Kota Makassar (2024 - Present)
-- **Staff Frontend Developer** - ITB Fair 2024 (Feb 2024 - May 2024)
-- **Junior Developer** - StartUp Ventures (Jul 2024 - Aug 2024)
-- **Staff of Intracampus** - HMIF ITB (Present)
-
 ---
 
 <div align="center">
